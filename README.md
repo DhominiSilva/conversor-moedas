@@ -10,6 +10,12 @@ Uma API REST para conversão de moedas em tempo real desenvolvida em Spring Boot
 - Lombok
 - Jackson
 
+## 🌐 API Externa Utilizada
+
+- **Provedor:** [Frankfurter.app](https://www.frankfurter.app/)
+- **Finalidade:** Obter cotações de moedas em tempo real
+- **Documentação:** [Frankfurter Docs](https://www.frankfurter.app/docs/)
+
 ## 📦 Como usar
 
 ### Parâmetros
