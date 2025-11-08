@@ -29,7 +29,7 @@ valor - Valor a ser convertido
 
 ### Requisição
 ```http
-GET http://localhost:8080/conversor?de=BRL&para=USD&valor=100
+GET http://localhost:8080/conversor?de=USD&para=BRL&valor=100
 ````
 
 ### Resposta
